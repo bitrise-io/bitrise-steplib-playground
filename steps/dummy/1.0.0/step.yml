@@ -19,6 +19,8 @@ source:
   git: https://github.com/bitrise-steplib/steps-deploy-to-bitrise-io.git
   commit: 45842c8d910ffd036a494cfb7456a730f6c7a0b5
 
+published_at: 2024-09-10T11:56:55.461001254Z
+
 executables:
   darwin-arm64:
     url: https://github.com/ofalvai/bitrise-steplib-playground/releases/download/0.1.0/git-clone-1.0.0-arm64-darwin
