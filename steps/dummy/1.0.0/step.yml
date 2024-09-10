@@ -21,8 +21,8 @@ source:
 
 executables:
   darwin-arm64:
-    url: https://github.com/bitrise-io/stepman/releases/download/0.17.0/stepman-Darwin-arm64
-    hash: sha256-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    url: https://github.com/ofalvai/bitrise-steplib-playground/releases/download/0.1.0/git-clone-1.0.0-arm64-darwin
+    hash: sha256-f91a10d969c5577f6d118911a2edea5b6910286919faffc9109172fdf56a82b9
   darwin-amd64:
   linux-amd64:
 
