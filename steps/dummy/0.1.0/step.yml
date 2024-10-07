@@ -22,10 +22,17 @@ source:
 published_at: 2024-09-10T11:56:55.461001254Z
 
 executables:
-  darwin-arm64:
-    url: https://github.com/ofalvai/bitrise-steplib-playground/releases/download/0.1.0/git-clone-1.0.0-arm64-darwin
-    hash: sha256-f91a10d969c5577f6d118911a2edea5b6910286919faffc9109172fdf56a82b9
   darwin-amd64:
+    url: https://github.com/bitrise-io/bitrise-steplib-playground/releases/download/0.1.0/null-amd64-darwin
+    hash: sha256-b8713cdadcf595d09e1ff4e508bd1fb32f270aae3c62a97094e65d7634b5cbd8
   linux-amd64:
+    url: https://github.com/bitrise-io/bitrise-steplib-playground/releases/download/0.1.0/null-amd64-linux
+    hash: sha256-9f788b1f2e85f005fb8d318f605729d08e3430cc184317db715ec0da8ad3b046
+  darwin-arm64:
+    url: https://github.com/bitrise-io/bitrise-steplib-playground/releases/download/0.1.0/null-arm64-darwin
+    hash: sha256-e0066ea529c1f11b669f3b4de6cce4f1765cc1ab73dbb06a45293ba18fd589cf
+  linux-arm64:
+    url: https://github.com/bitrise-io/bitrise-steplib-playground/releases/download/0.1.0/null-arm64-linux
+    hash: sha256-9af07cfb8ca63a57bebf5c178c930edfa2cf0596f321fe047829bc4472c99d5b
 
 inputs: []
