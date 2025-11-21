@@ -1,9 +1,6 @@
 title: Dummy step
 summary: Dummy step
-description: |
-  Dummy step
-  
-  Supports --fail-test flag which returns exit code 1, otherwise returns exit code 0.
+description: Dummy step
 website: https://github.com/...
 source_code_url: https://github.com/...
 support_url: https://github.com/.../issues
