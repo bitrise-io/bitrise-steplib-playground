@@ -27,15 +27,15 @@ published_at: 2024-09-10T11:56:55.461001254Z
 executables:
   linux-amd64:
     storage_uri: steps/dummy/0.1.0/bin/dummy-linux-amd64
-    hash: sha256-7b15ad75864da91dfeaa5ba803762ccff8bc7455ee6fc936f41c10abe96ef92b
+    hash: sha256-9f788b1f2e85f005fb8d318f605729d08e3430cc184317db715ec0da8ad3b046
   darwin-arm64:
     storage_uri: steps/dummy/0.1.0/bin/dummy-darwin-arm64
-    hash: sha256-b0d9693c4f4b6e013fdb9e831cf73f8fef0805adbb689cf0d44991b80fe8cf6f
+    hash: sha256-e0066ea529c1f11b669f3b4de6cce4f1765cc1ab73dbb06a45293ba18fd589cf
   linux-arm64:
     storage_uri: steps/dummy/0.1.0/bin/dummy-linux-arm64
-    hash: sha256-d7751d2b8ccae5dc58da5b1397b8aa1ddcee7b463069b6fb2c7e5c0709a4a87c
+    hash: sha256-9af07cfb8ca63a57bebf5c178c930edfa2cf0596f321fe047829bc4472c99d5b
   darwin-amd64:
     storage_uri: steps/dummy/0.1.0/bin/dummy-darwin-amd64
-    hash: sha256-ff5f747cdfc166d0bab119446511e5f49a880e22248d626d90f1e452b5236489
+    hash: sha256-b8713cdadcf595d09e1ff4e508bd1fb32f270aae3c62a97094e65d7634b5cbd8
 
 inputs: []
