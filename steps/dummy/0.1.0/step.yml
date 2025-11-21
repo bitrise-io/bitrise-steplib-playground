@@ -23,16 +23,16 @@ published_at: 2024-09-10T11:56:55.461001254Z
 
 executables:
   linux-amd64:
-    storage_uri: steps/deploy-to-bitrise-io/2.21.0/bin/deploy-to-bitrise-io-linux-amd64
-    hash: sha256-6c7d798e24cdcceb9a5df019825cc5c6c352de219d1d3ee995a770cb8cbe8dbc
+    storage_uri: steps/dummy/0.1.0/bin/dummy-linux-amd64
+    hash: sha256-9f788b1f2e85f005fb8d318f605729d08e3430cc184317db715ec0da8ad3b046
   darwin-arm64:
-    storage_uri: steps/deploy-to-bitrise-io/2.21.0/bin/deploy-to-bitrise-io-darwin-arm64
-    hash: sha256-103a37907e79cbb78283d4f787bb3d95780ceb05895fd4bbd0c1d0ae1250e3f6
+    storage_uri: steps/dummy/0.1.0/bin/dummy-darwin-arm64
+    hash: sha256-e0066ea529c1f11b669f3b4de6cce4f1765cc1ab73dbb06a45293ba18fd589cf
   linux-arm64:
-    storage_uri: steps/deploy-to-bitrise-io/2.21.0/bin/deploy-to-bitrise-io-linux-arm64
-    hash: sha256-1e882c57988ce738f148759e93d8513ddf4935d986d5d6dd8b7398d34e4335d3
+    storage_uri: steps/dummy/0.1.0/bin/dummy-linux-arm64
+    hash: sha256-9af07cfb8ca63a57bebf5c178c930edfa2cf0596f321fe047829bc4472c99d5b
   darwin-amd64:
-    storage_uri: steps/deploy-to-bitrise-io/2.21.0/bin/deploy-to-bitrise-io-darwin-amd64
-    hash: sha256-566868d4fec351506776851cefd0a92ca92e617b165986640dc0b905483344d2
+    storage_uri: steps/dummy/0.1.0/bin/dummy-darwin-amd64
+    hash: sha256-b8713cdadcf595d09e1ff4e508bd1fb32f270aae3c62a97094e65d7634b5cbd8
 
 inputs: []
