@@ -1,6 +1,9 @@
 title: Dummy step
 summary: Dummy step
-description: Dummy step
+description: |
+  Dummy step
+  
+  Supports --fail-test flag which returns exit code 1, otherwise returns exit code 0.
 website: https://github.com/...
 source_code_url: https://github.com/...
 support_url: https://github.com/.../issues
@@ -23,16 +26,16 @@ published_at: 2024-09-10T11:56:55.461001254Z
 
 executables:
   linux-amd64:
-    storage_uri: steps/deploy-to-bitrise-io/2.21.0/bin/deploy-to-bitrise-io-linux-amd64
-    hash: sha256-6c7d798e24cdcceb9a5df019825cc5c6c352de219d1d3ee995a770cb8cbe8dbc
+    storage_uri: steps/dummy/0.1.0/bin/dummy-linux-amd64
+    hash: sha256-7b15ad75864da91dfeaa5ba803762ccff8bc7455ee6fc936f41c10abe96ef92b
   darwin-arm64:
-    storage_uri: steps/deploy-to-bitrise-io/2.21.0/bin/deploy-to-bitrise-io-darwin-arm64
-    hash: sha256-103a37907e79cbb78283d4f787bb3d95780ceb05895fd4bbd0c1d0ae1250e3f6
+    storage_uri: steps/dummy/0.1.0/bin/dummy-darwin-arm64
+    hash: sha256-b0d9693c4f4b6e013fdb9e831cf73f8fef0805adbb689cf0d44991b80fe8cf6f
   linux-arm64:
-    storage_uri: steps/deploy-to-bitrise-io/2.21.0/bin/deploy-to-bitrise-io-linux-arm64
-    hash: sha256-1e882c57988ce738f148759e93d8513ddf4935d986d5d6dd8b7398d34e4335d3
+    storage_uri: steps/dummy/0.1.0/bin/dummy-linux-arm64
+    hash: sha256-d7751d2b8ccae5dc58da5b1397b8aa1ddcee7b463069b6fb2c7e5c0709a4a87c
   darwin-amd64:
-    storage_uri: steps/deploy-to-bitrise-io/2.21.0/bin/deploy-to-bitrise-io-darwin-amd64
-    hash: sha256-566868d4fec351506776851cefd0a92ca92e617b165986640dc0b905483344d2
+    storage_uri: steps/dummy/0.1.0/bin/dummy-darwin-amd64
+    hash: sha256-ff5f747cdfc166d0bab119446511e5f49a880e22248d626d90f1e452b5236489
 
 inputs: []
